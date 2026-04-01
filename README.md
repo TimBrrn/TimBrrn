@@ -1,16 +1,13 @@
-# Hey, I'm Timothee
+### Hey
 
-Fullstack developer based in Paris, building products where AI is a core part of the experience.
+Timothee, fullstack dev in Paris. I like building products that have AI baked in, not as a gimmick but as the thing that makes the product work.
 
-I work across the stack — React, Node.js, Python — and I'm particularly drawn to projects that combine solid engineering with LLMs, voice AI, and intelligent automation.
+Most of my side projects end up involving an LLM at some point.
 
-## What I'm working on
+**[Declio](https://github.com/TimBrrn/declio)** Phone secretary. Picks up calls, handles scheduling, sends an SMS recap. React, FastAPI, LangGraph, Deepgram, ElevenLabs, MistralAI.
 
-- **[Declio](https://github.com/TimBrrn/declio)** — AI voice secretary for healthcare clinics. Handles calls, books appointments, sends SMS recaps. Built with FastAPI, LangGraph, Deepgram, and ElevenLabs.
-- **[MelyoAI](https://github.com/MelyoAI)** — E-commerce AI chatbot platform for Shopify merchants. NestJS, React, LangChain, RAG with pgvector.
-- **[DevTrainer](https://github.com/TimBrrn/devtrainer)** — Practice coding with AI-generated exercises and feedback. React, FastAPI, Claude API.
-- **[Trading Bot](https://github.com/TimBrrn/python_trading_bot)** — Crypto backtesting engine using RSI and Bollinger Bands. Python, pandas.
+**[MelyoAI](https://github.com/MelyoAI)** AI chatbot for Shopify stores. React, Node, LangChain, pgvector.
 
-## Tech I use daily
+**[DevTrainer](https://github.com/TimBrrn/devtrainer)** Coding practice app that generates exercises with Claude. React, FastAPI.
 
-`TypeScript` `React` `Node.js` `Python` `FastAPI` `PostgreSQL` `LangChain` `OpenAI` `Tailwind`
+**[Trading Bot](https://github.com/TimBrrn/python_trading_bot)** Backtesting engine for crypto (RSI + Bollinger). Python, pandas.
