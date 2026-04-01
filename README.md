@@ -10,6 +10,4 @@ Most of my side projects end up involving an LLM at some point.
 
 **[CodeDojo](https://github.com/TimBrrn/codedojo)** Coding practice app that generates exercises with Claude. React, FastAPI.
 
-**[LoL Scout](https://github.com/TimBrrn/LolScout)** League of Legends pregame scouting & postgame coaching via Claude AI. Python, Discord.
-
 **[Trading Bot](https://github.com/TimBrrn/python_trading_bot)** Backtesting engine for crypto (RSI + Bollinger). Python, pandas.
