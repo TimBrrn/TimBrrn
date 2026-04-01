@@ -4,9 +4,9 @@ Timothee, fullstack dev in Paris. I like building products that have AI baked in
 
 Most of my side projects end up involving an LLM at some point.
 
-**[Declio](https://github.com/TimBrrn/declio)** Phone secretary. Picks up calls, handles scheduling, sends an SMS recap. React, FastAPI, LangGraph, Deepgram, ElevenLabs, MistralAI.
+**[Declio](https://github.com/TimBrrn/declio)** Phone secretary. Picks up calls, handles scheduling, sends an SMS recap. React, FastAPI, LangGraph, Deepgram, ElevenLabs, Mistral.
 
-**[MelyoAI](https://github.com/MelyoAI)** AI chatbot for Shopify stores. React, Node, LangChain, pgvector.
+**[Melyo](https://github.com/MelyoAI)** AI chatbot for Shopify stores. React, Node, Python, LangChain, pgvector.
 
 **[CodeDojo](https://github.com/TimBrrn/codedojo)** Coding practice app that generates exercises with Claude. React, FastAPI.
 
